@@ -1,0 +1,35 @@
+{
+  "name": "shuohanyu",
+  "version": "1.0.0",
+  "description": "A Mastodon bot to practice Mandarin Chinese",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "bot": "ts-node --esm ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirei/shuohanyu.git"
+  },
+  "keywords": [
+    "mastodon",
+    "bot",
+    "learning",
+    "language",
+    "mandarin",
+    "chinese"
+  ],
+  "author": "Nirro",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Nirei/shuohanyu/issues"
+  },
+  "homepage": "https://github.com/Nirei/shuohanyu#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "masto": "^5.11.3"
+  }
+}
