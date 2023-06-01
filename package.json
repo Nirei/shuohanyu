@@ -26,10 +26,11 @@
   },
   "homepage": "https://github.com/Nirei/shuohanyu#readme",
   "devDependencies": {
-    "@types/node": "^20.2.5"
+    "@types/node": "^20.2.5",
+    "prettier": "^2.8.8"
   },
   "dependencies": {
-    "ts-node": "^10.9.1",
-    "masto": "^5.11.3"
+    "masto": "^5.11.3",
+    "ts-node": "^10.9.1"
   }
 }
