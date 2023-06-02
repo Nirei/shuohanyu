@@ -1,7 +1,7 @@
 # shuohanyu
 A Mastodon bot to practice Mandarin Chinese
 
-You can find an instance of this bot running here: [@cascarilla.social@shouhanyu](https://cascarilla.social/@shouhanyu)
+You can find an instance of this bot running here: [@cascarilla.social@shuohanyu](https://cascarilla.social/@shuohanyu)
 
 ## Use
 
